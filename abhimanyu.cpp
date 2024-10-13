@@ -50,7 +50,7 @@ bool canCrossChakravyuha(vector<int>& enemies, int p, int a, int b) {
 
 int main() {
    
-   //Test case 1 when abhimanyu has small enemies , more skips and recharges so he crosses all circles 
+   //Test case 1 when abhimanyu has small enemies , more skips and recharges so HE CROSSES ALL CIRCLES!!!
     vector<int> enemies1 = {5, 5, 10, 7, 8, 6, 10, 9, 6, 5, 12};
    
 int initial_power1 = 40, skips1 = 2, recharges1 = 3;
@@ -60,7 +60,7 @@ int initial_power1 = 40, skips1 = 2, recharges1 = 3;
         cout << "Abhimanyu cannot cross Chakravyuha in test case 1 !" << endl;
     }
 
-  //Test case 2 when abhimanyu got more powerful enemies, fewer skips and recharges and he fails 
+  //Test case 2 when abhimanyu got more powerful enemies, fewer skips and recharges and HE FAILS !
      vector<int> enemies2 = {20, 30, 25, 40, 50, 25, 60, 30, 20, 10, 70};
     int initial_power2 = 100, skips2 = 1, recharges2 = 2;
 
