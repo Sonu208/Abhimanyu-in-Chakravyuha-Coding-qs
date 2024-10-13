@@ -45,3 +45,5 @@ For each enemy i in the array of enemies:
 
 3)Return True if All Enemies are Defeated:
       If Abhimanyu defeats all enemies or skips/charges through, return true (Abhimanyu successfully crosses the Chakravyuha).
+
+Please check the Dry run of the Problem : https://drive.google.com/file/d/1_40Y-A3GJxumfAyvnOVXb3WDnCj9uizX/view?usp=sharing
