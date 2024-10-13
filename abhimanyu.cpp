@@ -26,7 +26,7 @@ bool canCrossChakravyuha(vector<int>& enemies, int p, int a, int b) {
                 continue; 
             } else if (b > 0) {
                 b--;  // retry enemy
-                p += 20;  // Recharge by 10 power
+                p += 20;  // Recharge by 20 power
                 if (p >= enemies[i]) {
                     p -= enemies[i];  // Now defeat the enemy
                 } else {
